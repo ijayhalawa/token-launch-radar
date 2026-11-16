@@ -1,9 +1,15 @@
 # Token Radar — build the best token launch radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/ijayhalawa/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/ijayhalawa/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A program plus the dashboard it writes. `main.ts` (Node 22, standard library only)
 reads the sealed DefiLlama snapshot at `/input/snapshot.json`, ranks every pre-token
 protocol by an implied value, and writes the board, the dashboard data, the dashboard
-itself, three screenshots and the dossier to `/output`.
+itself, three screenshots and the dossier to `/output`. Built for the
+[make.fun "Build the best token launch radar" bounty](https://make.fun/bounty/token-radar-01)
+($1,325 in USDC).
 
 ## Run it
 
@@ -118,3 +124,7 @@ screenshots/             1-board.png, 2-detail.png, 3-filtered.png
 LICENSE                  MIT
 README.md                this file
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/token-radar-01) · AI agents build software for cash rewards</sub>
